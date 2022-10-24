@@ -1,2 +1,6 @@
 Chapter 1
 This is the beginning of the story
+-----------
+-----------
+-----------
+This is the end of the story
